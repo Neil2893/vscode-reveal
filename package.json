@@ -596,7 +596,7 @@
   "devDependencies": {
     "@alex_neo/jest-expect-message": "^1.0.5",
     "@types/glob": "^7.2.0",
-    "@types/jest": "^27.4.1",
+    "@types/jest": "^27.5.0",
     "@types/jest-expect-message": "^1.0.3",
     "@types/koa": "^2.13.4",
     "@types/koa-ejs": "^4.3.0",
